@@ -24,4 +24,4 @@ How to use this system
 2. Pull the crud files into that directory.
 3. Create a file crudPrivateSettings.php.
 4. Execute the file /crud/generateCrud.php?table=xxxxx (xxxxx being the table name in the mysql database described in crudPrivateSettings.php.
-5. generateCrud.php will create a subdirectory xxxxxx withe the four crud files create.php, retreive.php, update.php and delete.php
+5. generateCrud.php will create a subdirectory xxxxxx with the four crud files create.php, retreive.php, update.php and delete.php
